@@ -1,0 +1,29 @@
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll

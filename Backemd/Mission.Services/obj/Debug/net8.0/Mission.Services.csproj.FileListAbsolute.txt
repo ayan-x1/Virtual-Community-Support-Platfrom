@@ -1,0 +1,35 @@
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+V:\college\SEM 7\internship\daily task\reamining\day 11\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-12\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
